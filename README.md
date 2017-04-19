@@ -1,6 +1,8 @@
 # git_test
 git function test
 
+## 基礎設定
+
 * 查詢版本
 ```
 git version
@@ -19,4 +21,15 @@ git config --global user.name "你的名字"
 * 輸入email
 ```
 git config --global user.email "你的email"
+```
+
+## 新增本地/遠端數據庫
+* 在本地資料夾新增數據庫
+```
+git init
+```
+
+* 複製遠端數據庫
+```
+git clone 遠端數據庫網址
 ```
