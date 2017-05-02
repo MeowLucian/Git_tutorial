@@ -44,3 +44,8 @@ git add 檔案名稱
 ```
 git add .
 ```
+
+* 查詢狀態
+```
+git status
+```
