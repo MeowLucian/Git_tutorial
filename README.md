@@ -49,3 +49,8 @@ git add .
 ```
 git status
 ```
+
+* 顯示歷史紀錄
+```
+git log
+```
