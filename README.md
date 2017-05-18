@@ -54,3 +54,8 @@ git status
 ```
 git log
 ```
+
+* 將索引提交到數據庫
+```
+git commit -m '更新訊息'
+```
