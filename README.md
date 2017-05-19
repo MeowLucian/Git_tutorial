@@ -59,3 +59,9 @@ git log
 ```
 git commit -m '更新訊息'
 ```
+
+## 還原指令
+* 還原工作目錄與索引，會跟最後一次 commit 保持一樣
+```
+git reset --hard
+```
