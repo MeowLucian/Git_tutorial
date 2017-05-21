@@ -65,3 +65,8 @@ git commit -m '更新訊息'
 ```
 git reset --hard
 ```
+
+* 全部檔案取消索引
+```
+git reset HEAD
+```
