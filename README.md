@@ -70,3 +70,8 @@ git reset --hard
 ```
 git reset HEAD
 ```
+
+* 單一檔案取消索引
+```
+git reset HEAD 檔案名稱
+```
