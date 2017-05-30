@@ -75,3 +75,8 @@ git reset HEAD
 ```
 git reset HEAD 檔案名稱
 ```
+
+* 恢復單一檔案到最新 commit 狀態
+```
+git checkout 檔案名稱
+```
