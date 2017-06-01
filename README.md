@@ -80,3 +80,8 @@ git reset HEAD 檔案名稱
 ```
 git checkout 檔案名稱
 ```
+
+* 刪除最近一次 commit 
+```
+git reset --hard "HEAD^"
+```
