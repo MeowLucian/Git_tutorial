@@ -85,3 +85,8 @@ git checkout 檔案名稱
 ```
 git reset --hard "HEAD^"
 ```
+
+* commit 後發現有幾個檔案忘了加入進去，想要補內容進去時
+```
+git commit --amend
+```
