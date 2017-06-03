@@ -24,6 +24,7 @@ git config --global user.email "你的email"
 ```
 
 ## 新增本地/遠端數據庫
+
 * 在本地資料夾新增數據庫
 ```
 git init
@@ -35,6 +36,7 @@ git clone 遠端數據庫網址
 ```
 
 ## 增加/刪除檔案
+
 * 增加檔案進入索引
 ```
 git add 檔案名稱
@@ -89,4 +91,11 @@ git reset --hard "HEAD^"
 * commit 後發現有幾個檔案忘了加入進去，想要補內容進去時
 ```
 git commit --amend
+```
+
+## 分支
+
+* 顯示所有本地分支
+```
+git branch
 ```
