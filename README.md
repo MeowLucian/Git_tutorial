@@ -99,3 +99,8 @@ git commit --amend
 ```
 git branch
 ```
+
+* 新增分支
+```
+git bracnch 分支名稱
+```
