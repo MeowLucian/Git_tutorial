@@ -104,3 +104,8 @@ git branch
 ```
 git bracnch 分支名稱
 ```
+
+* 切換分支
+```
+git checkout 分支名稱
+```
