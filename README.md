@@ -109,3 +109,8 @@ git bracnch 分支名稱
 ```
 git checkout 分支名稱
 ```
+
+* 合併指定分支到目前的分支
+```
+git merge 分支名稱
+```
