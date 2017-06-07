@@ -114,3 +114,8 @@ git checkout 分支名稱
 ```
 git merge 分支名稱
 ```
+
+* 刪除分支
+```
+git branch -d 分支名稱
+```
