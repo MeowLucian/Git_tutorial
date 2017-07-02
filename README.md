@@ -126,3 +126,8 @@ git branch -d 分支名稱
 ```
 git clone 遠端數據庫網址
 ```
+
+## 查詢遠端數據庫
+```
+git remote
+```
