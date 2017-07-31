@@ -148,3 +148,8 @@ git pull
 ```
 git tag
 ```
+
+* 查詢詳細標籤
+```
+git tag n
+```
