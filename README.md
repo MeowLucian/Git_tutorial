@@ -153,3 +153,8 @@ git tag
 ```
 git tag n
 ```
+
+* 刪除標籤
+```
+git tag -d 標籤名稱
+```
