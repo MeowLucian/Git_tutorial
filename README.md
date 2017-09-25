@@ -102,7 +102,7 @@ git branch
 
 * 新增分支
 ```
-git bracnch 分支名稱
+git branch 分支名稱
 ```
 
 * 切換分支
