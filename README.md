@@ -175,3 +175,8 @@ git tag -am "備註內容" 標籤名稱
 ```
 git stash
 ```
+
+* 瀏覽 stash 列表
+```
+git stash list
+```
