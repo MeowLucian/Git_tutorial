@@ -180,3 +180,8 @@ git stash
 ```
 git stash list
 ```
+
+* 還原暫存
+```
+git stash pop
+```
