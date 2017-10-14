@@ -185,3 +185,8 @@ git stash list
 ```
 git stash pop
 ```
+
+* 清除最新暫存
+```
+git stash drop
+```
