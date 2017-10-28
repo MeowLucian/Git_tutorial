@@ -190,3 +190,8 @@ git stash pop
 ```
 git stash drop
 ```
+
+* 清除全部暫存
+```
+git stash clear
+```
