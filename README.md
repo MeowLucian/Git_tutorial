@@ -195,3 +195,9 @@ git stash drop
 ```
 git stash clear
 ```
+
+## Share the code
+
+* Github Gist
+
+https://gist.github.com/
