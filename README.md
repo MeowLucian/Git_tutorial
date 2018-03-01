@@ -1,5 +1,5 @@
-# git_test
-git function test
+# Git_tutorial
+Git tutorial in traditional Chinese language
 
 ## 基礎設定
 
