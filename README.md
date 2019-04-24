@@ -1,6 +1,8 @@
 # Git_tutorial
 Git tutorial in traditional Chinese language
 
+![git process](https://raw.githubusercontent.com/MeowLucian/Git_tutorial/master/Picture/git_process.png)
+
 ## 基礎設定
 
 * 查詢版本
@@ -140,6 +142,13 @@ git push 遠端數據庫名稱 遠端分支名稱
 * 將遠端分支拉下來與本地分支進行合併
 ```
 git pull
+```
+
+* 保留遠端分支的 git 紀錄檔案
+```
+git init
+git remote add origin https://github.com/me/name.git
+git pull origin master
 ```
 
 ## 標籤
